@@ -273,7 +273,7 @@ Estou em busca da minha **primeira oportunidade profissional em Quality Assuranc
 
 Se você trabalha com **QA, testes de software, automação ou desenvolvimento**, fique à vontade para conhecer meus projetos e entrar em contato.
 
-💼 **LinkedIn:** [Felipe Rodrigues](https://www.linkedin.com/)
+💼 **LinkedIn:** [Felipe Rodrigues](https://www.linkedin.com/in/felipe-rodrigues-653152355)
 
 💻 **GitHub:** [github.com/Feliperodbar](https://github.com/Feliperodbar)
 
